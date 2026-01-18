@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Gurprit
-Computational biology/Bioinformatics
+subtitle: Computational biology/Bioinformatics
 ---
 # Gurprit, PhD
 sekhongurprit[@]gmail.com
