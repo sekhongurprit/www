@@ -22,7 +22,7 @@ sekhongurprit[@]gmail.com
   </div>
 
   <div class="pub-media">
-    <img src="gwas-analysis.gif" class="pub-gif zoomable" onclick="toggleZoom(this)">
+    <img src="/img/pub_preview/ar_simulation.gif" class="pub-gif zoomable" onclick="toggleZoom(this)">
     <p class="caption">Click to zoom: Manhattan Plot of GWAS results</p>
   </div>
 </div>
