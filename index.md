@@ -1,17 +1,14 @@
 ---
 layout: portfolio
-title: Gurprit, PhD
+title: Gurprit
 ---
-
-[Email](mailto:sekhongurprit@gmail.com)
+#Gurprit, PhD
+sekhongurprit[@]gmail[.]com
 ---
-
-## About Me
-Computational biologist
 
 ---
 
-## 📚 Selected Publications
+## Publications
 
 <div class="pub-card">
   <div class="pub-content">
@@ -30,23 +27,6 @@ Computational biologist
   </div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-content">
-    <h3>Emerging Techniques to Develop Biotic Stress Resistance</h3>
-    <p><em>Co-author | Plant Physiology (2023)</em></p>
-    <div class="pub-actions">
-        <a href="stress-resistance.pdf" class="btn-pdf">📄 PDF</a>
-    </div>
-  </div>
-  <div class="pub-media">
-    </div>
-</div>
-
 ---
-
-## 🛠️ Skills
-| Computational | Biological |
-| :--- | :--- |
-| Python / R | Microbial Genomics |
 | GWAS Pipelines | Antimicrobial Resistance |
 | Linux / Bash | Sequence Alignment |
