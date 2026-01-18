@@ -4,13 +4,9 @@ title: Gurprit
 subtitle: Computational biology/Bioinformatics
 ---
 # Gurprit, PhD
-### Computational biology and Bioinformatics [<a href="https://github.com/sekhongurprit"> github </a>]
-### Email: sekhongurprit[@]gmail.com
----
+Computational biology and Bioinformatics [<a href="https://github.com/sekhongurprit"> github </a>]
+Email: sekhongurprit[@]gmail.com
 
----
-
-## Publications
 
 <div class="pub-card">
   <div class="pub-content">
