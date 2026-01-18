@@ -2,8 +2,8 @@
 layout: portfolio
 title: Gurprit
 ---
-#Gurprit, PhD
-sekhongurprit[@]gmail[.]com
+# Gurprit, PhD
+sekhongurprit[@]gmail.com
 ---
 
 ---
