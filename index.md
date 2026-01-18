@@ -1,22 +1,13 @@
 ---
 layout: portfolio
-title: Gurprit Sekhon | Bioinformatics & Genomics
+title: Gurprit, PhD
 ---
 
-# Gurprit Sekhon
-**Bioinformatics Researcher at CSIR-IMTECH**
-
-[Email](mailto:sekhongurprit@gmail.com) | [GitHub](https://github.com/sekhongurprit) | [ResearchGate](https://www.researchgate.net/profile/Gurprit-Sekhon)
-
+[Email](mailto:sekhongurprit@gmail.com)
 ---
 
-## 🧬 About Me
-I am a researcher specializing in **Bioinformatics and Genomics**. My work focuses on the intersection of computational biology and microbial pathogenesis, specifically using genomic data to track antibiotic resistance.
-
-## 🔬 Research Interests
-* **Pathogen Genomics:** Evolution of *Acinetobacter baumannii*.
-* **AMR Discovery:** Identifying novel resistance markers via GWAS.
-* **Computational Pipelines:** Developing scalable workflows for large-scale sequencing data.
+## About Me
+Computational biologist
 
 ---
 
