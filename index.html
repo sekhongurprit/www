@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Gurprit</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <style>
+        :root { --primary: #2c3e50; --accent: #3498db; --bg: #ffffff; }
+        h2, h3, p {
+            margin-top: 0;
+            margin-bottom: 5px;
+            margin-left: 0px;
+        }
+        p:first-of-type {
+            margin-bottom: 0; 
+            font-weight: bold;
+        }
+
+        .pub-content p:nth-of-type(1) {
+            margin-top: 100px;
+            margin-left: 100px;
+            font-style: italic;
+            color: #FF69B4; /* That pink accent we discussed */
+        }
+
+        body { font-family: 'Inter', sans-serif; background-color: var(--bg); margin: 0; }
+        
+        .pub-gif {
+            border: 1px solid grey !important;
+            display: block !important;
+            width: 200px; /* Force a width */
+            height: auto;
+            margin-left: 100px
+            cursor: zoom-in
+        } 
+    </style>
+</head>
+
+
+<body>
+    <h2 class="id="name" >Gurprit, PhD</h2>
+    <h3>Email: sekhongurprit[@]gmail.com  <br> <a href="pdf/resume_gurprit.pdf"> Curriculum Vitae (CV) </a> </h3>
+
+    <div class="pub-content">
+        <p> 
+            Dec 2025             
+            A genome-wide association study to identify the genetic <br> loci underlying carbapenem resistance
+            <em>Gurprit Sekhon &amp; Balvinder Singh | bioRxiv (2025)</em> [<a href="pdf/folding.pdf"> PDF </a>] 
+            <img src="img/pub_preview/ar_simulation.gif" class="pub-gif">
+        </p>    
+    </div>
+
+    <script>
+        function toggleZoom(img) {
+            const overlay = document.getElementById('overlay');
+            img.classList.toggle('zoomed');
+            overlay.style.display = img.classList.contains('zoomed') ? 'block' : 'none';
+        }
+        function closeAllZooms() {
+            const zoomedImg = document.querySelector('.pub-gif.zoomed');
+            if (zoomedImg) {
+                zoomedImg.classList.remove('zoomed');
+                document.getElementById('overlay').style.display = 'none';
+            }
+        }
+    </script>
+
+</body>
+</html>
